@@ -1,0 +1,45 @@
+body {
+    margin:0;
+    text-align: center;
+    padding-top: 900px;
+}
+.profile {
+    border-radius: 50%;
+}
+#welcome{
+    position:absolute;
+    bottom:0;
+    background: linear-gradient(#03eaff 0%, #9a0cf2 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+
+}
+h1 {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 300;
+}
+#name {
+    font-size: 50px;
+    font-family: cursive;
+}
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+#bio {
+    padding: 50px;
+    font-family: cursive;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin:8px auto;
+}
+.parallax-inner {
+  display: table-cell;
+  vertical-align: middle;  
+}
